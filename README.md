@@ -1,2 +1,14 @@
-# Yuki-Dashboard
-Files used by the Yuki Dashboard application - for Yuki OS
+[![Banner-Logo.png](https://i.postimg.cc/pL84QXFb/Banner-Logo.png)](https://postimg.cc/PCXSTHy2)
+<p align="center">
+  <a href="https://discord.gg/ujDvXgsRMq">
+    <img src="https://i.postimg.cc/3R3Fst6x/discord-icon-svgrepo-com.png" alt="Join Discord" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/yukiwastake">
+    <img src="https://i.postimg.cc/fTWYjHSw/ko-fi.png)](https://postimg.cc/ThSyTJcS)" alt="Support on Ko-fi" width="50"/>
+  </a>
+</p>
+
+# Yuki Dashboard
+
+A Windows based setup and configuration tool designed for Yuki OS but can be used on any Windows operating system.
