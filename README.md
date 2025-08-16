@@ -1,7 +1,7 @@
 [![Banner-Logo.png](https://i.postimg.cc/DZ1G3Pg0/Banner-Logo.png)](https://postimg.cc/Q9xCp5vZ)
 <p align="center">
   <a href="https://discord.gg/ujDvXgsRMq">
-    <img src="https://i.postimg.cc/3R3Fst6x/discord-icon-svgrepo-com.png" alt="Join Discord" width="50"/>
+    <img src="https://i.postimg.cc/pr2mbbrc/discord-logo.png" alt="Join Discord" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/yukiwastake">
