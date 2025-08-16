@@ -1,4 +1,4 @@
-[![Banner-Logo.png](https://i.postimg.cc/pL84QXFb/Banner-Logo.png)](https://postimg.cc/PCXSTHy2)
+[![Banner-Logo.png](https://i.postimg.cc/DZ1G3Pg0/Banner-Logo.png)](https://postimg.cc/Q9xCp5vZ)
 <p align="center">
   <a href="https://discord.gg/ujDvXgsRMq">
     <img src="https://i.postimg.cc/3R3Fst6x/discord-icon-svgrepo-com.png" alt="Join Discord" width="50"/>
