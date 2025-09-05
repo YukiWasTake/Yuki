@@ -1,4 +1,4 @@
-[![yukibanner.png](https://i.postimg.cc/vTFNJLKT/yukibanner.png)](https://postimg.cc/2bGGvvrN)
+[![yukibanner.png](https://i.postimg.cc/65jnm6g4/yukibanner.png)](https://postimg.cc/zVhyLNJq)
 <p align="center">
   <a href="https://discord.gg/ujDvXgsRMq">
     <img src="https://i.postimg.cc/pr2mbbrc/discord-logo.png" alt="Join Discord" width="50"/>
