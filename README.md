@@ -13,6 +13,6 @@
   </a>
 </p>
 
-# Yuki Dashboard
+#
 
 A Windows based setup and configuration tool designed for Yuki OS but can be used on any Windows operating system.
