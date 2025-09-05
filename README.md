@@ -1,4 +1,8 @@
-[![yukibanner.png](https://i.postimg.cc/GhV9D46K/yukibanner.png)](https://postimg.cc/N58gqjs2)
+<p align="center">
+  <a href="https://postimg.cc/Q9Sykvht">
+    <img src="https://i.postimg.cc/J0WCmWFb/yukibanner.png" alt="Yuki Banner" width="500"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://discord.gg/ujDvXgsRMq">
     <img src="https://i.postimg.cc/pr2mbbrc/discord-logo.png" alt="Join Discord" width="50"/>
