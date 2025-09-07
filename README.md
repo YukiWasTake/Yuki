@@ -26,3 +26,16 @@
 </p>
 
 #
+###
+
+## Features
+
+- **Setup** – install VC++/DirectX/.NET runtimes, set account details, time and language control.
+- **Drivers** – install necessary drivers.
+- **Component control** – enable or disable unneeded Windows features and services.
+- **Personalization** – Windows theme and quality of life personalization.
+- **Performance settings** – network and GPU related options.
+- **App explorer** – useful app and game launcher downloads.
+## License
+
+[LICENSE.md](./LICENSE.md)
