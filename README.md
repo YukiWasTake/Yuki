@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://postimg.cc/Q9Sykvht">
-    <img src="https://i.postimg.cc/76rFH2xW/yukibanner.png" alt="Yuki Banner" width="500"/>
+  <a>
+    <img src="https://i.postimg.cc/SN67Srdw/yukibanner.png" alt="Yuki Banner" width="500"/>
   </a>
 </p>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://discord.gg/ujDvXgsRMq" target="_blank">
-    <img src="https://i.postimg.cc/wB5VNf8g/discord.png" 
+    <img src="https://i.postimg.cc/zBT3CdyN/discord.png" 
          alt="Join my Discord"
          style="width:40px; height:auto; margin: 0 8px;"/>
   </a>
   <a href="https://ko-fi.com/yukiwastake" target="_blank">
-    <img src="https://i.postimg.cc/Y2F1LD1V/kofi.png" 
+    <img src="https://i.postimg.cc/TPzpW8YQ/kofi.png" 
          alt="Support me on Ko-fi"
          style="width:40px; height:auto; margin: 0 8px;"/>
   </a>
